@@ -10,7 +10,7 @@ function About() {
             <h1 className="font-bold text-[32px]">About Company</h1>
             <p>
               Are constantly thriving to improve our already high standards to
-              have you see us as the absolute best in the industry. It’s not
+              have you see us as the absolute best in the industry. It’s notcd
               enough to have trust in the cleaning.
             </p>
             <h2 className="font-bold text-[20px]">Our Mission</h2>
