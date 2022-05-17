@@ -1,13 +1,13 @@
-import AboutSection from '../components/home/about-section';
-import InfoSection from '../components/home/info-section';
-import Banner from '../components/multiusable/banner';
-import NewsLetter from '../components/multiusable/news-letter';
+import AboutSection from "../components/home/about-section";
+import InfoSection from "../components/home/info-section";
+import Banner from "../components/multiusable/banner";
+import NewsLetter from "../components/multiusable/news-letter";
 
 export default function Home() {
   return (
     <div>
       <div className="relative">
-        <Banner image="/images/home-images/homeBanner.jpg" />
+        <Banner image="/images/home-images/homeBanner.webp" />
         <div className="absolute top-24 left-48 text-white w-1/4 space-y-2">
           <button className="border-2 border-white rounded-full px-5 py-1 font-semibold">
             Heal your Life
